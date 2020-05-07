@@ -1,7 +1,7 @@
 # Site settings
 title: Jiboli - Portfolio
 description: Portfolio of my illustrations
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: João Henrique Riboli
 
