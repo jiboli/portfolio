@@ -1,0 +1,9 @@
+I"J<!-- Thumbnail -->
+<section id="thumbnails">
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/02.jpg" data-position="left center"><img src="assets/images/thumbs/02.jpg" alt="" /></a>
+		<h2>Vivamus convallis libero</h2>
+		<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+	</article>
+</section>
+:ET

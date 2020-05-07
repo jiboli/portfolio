@@ -1,9 +1,9 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+title: Jiboli - Portfolio
+description: Portfolio of my illustrations
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: João Henrique Riboli
 
 # Collection settings
 collections:
@@ -12,14 +12,15 @@ collections:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
+github_url: https://github.com/jiboli
+gitlab_url: 
+googleplus_url: 
+telegram: https://t.me/jiboli  
+instagram_url: https://www.instagram.com/jiboli/
+linkedin_url: 
+pinterest_url: https://br.pinterest.com/joaohenriquerib/
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/jiboli
 
 # Build settings
 markdown: kramdown

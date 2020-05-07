@@ -14,7 +14,8 @@
 		@include padding(3em, 2.25em);
 
 		h1 {
-			font-size: 2.25em;
-			font-weight: _font(weight-bold);
+			font-size: 2em;
+			//font-weight: _font(weight-bold);
+			font-family: 'orchideelightregular';
 		}
 	}

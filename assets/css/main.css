@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url(../fonts/stylesheet.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 
 /*
@@ -136,7 +137,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #402550;
 		}
 
 	strong, b {
@@ -281,8 +282,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
-			color: #00D3B7;
+			border-color: #402550;
+			color: #402550;
 		}
 
 			input[type="submit"]:hover:active,
@@ -398,7 +399,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #00D3B7;
+			border-color: #402550;
 		}
 
 	.select-wrapper {
@@ -509,7 +510,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #00D3B7;
+			border-color: #402550;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -815,8 +816,21 @@
 	}
 
 		#header h1 {
-			font-size: 2.25em;
-			font-weight: 700;
+			font-size: 2em;
+			/*font-weight: 700;*/
+			font-family: 'orchideelightregular';
+			margin: 0 0 0.05em 0;
+		}
+		#header .ji{
+			margin: 0 1.55em 0.05em 0;
+		}
+		#header .bo{
+			margin: 0 .3em 0.05em 0;
+			color: #740eb1;
+		}
+		#header .li{
+			margin: 0 0em 0.05em 0;
+			color: #999;
 		}
 
 /* Footer */
@@ -890,7 +904,7 @@
 					top: 0;
 					width: 100%;
 					height: 100%;
-					box-shadow: inset 0 0 0 2px #00D3B7, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
+					box-shadow: inset 0 0 0 2px #402550, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
 					opacity: 0;
 					z-index: 1;
 				}

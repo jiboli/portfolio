@@ -25,7 +25,7 @@ var main = (function($) { var _ = {
 			thumbnailsPerRow: 2,
 
 		// Side of main wrapper (must match "misc.main-side" in _vars.scss).
-			mainSide: 'right'
+			mainSide: 'left'
 
 	},
 

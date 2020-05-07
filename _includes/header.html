@@ -1,6 +1,10 @@
 <!-- Header -->
 <header id="header">
-	<h1>{{ site.title }}</h1>
+	<!--<h1>{{ site.title }}</h1>-->
+	<h1 class="ji">JI</h1>
+	<h1 class="bo">BO</h1>
+	<h1 class="li">LI</h1>
+
 	<p>{{ site.description }}</p>
 	<ul class="icons">
 		{% if site.twitter_url %}
@@ -32,6 +36,9 @@
 		{% endif %}
 		{% if site.linkedin_url %}
 		<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+		{% endif %}
+		{% if site.telegram %}
+		<li><a href="{{ site.telegram }}" class="icon fa-telegram-plane" target="_blank"><span class="label">Telegram</span></a></li>
 		{% endif %}
 	</ul>
 </header>
