@@ -22,6 +22,15 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+	/*article{
+		display: flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+	}
+	#article .img{
+		background-size: cover;
+		
+	}*/
 
 	body {
 		line-height: 1;
@@ -871,13 +880,13 @@
 
 		#thumbnails article {
 			position: relative;
-			width: 50%;
-			background: #101010;
+			width: 100%;
+			/*background: #101010;*/
 			outline: 0;
 		}
 
 			#thumbnails article .thumbnail {
-				-webkit-tap-highlight-color: transparent;
+				/*-webkit-tap-highlight-color: transparent;*/
 				display: block;
 				position: relative;
 				border: 0;
@@ -1126,7 +1135,7 @@
 				width: 100%;
 				height: 100%;
 				background-repeat: no-repeat;
-				background-size: cover;
+				background-size: contain;
 				opacity: 0;
 			}
 

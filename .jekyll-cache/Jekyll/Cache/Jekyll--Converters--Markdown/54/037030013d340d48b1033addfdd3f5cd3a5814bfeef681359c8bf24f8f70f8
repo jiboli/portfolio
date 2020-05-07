@@ -1,0 +1,21 @@
+I"�<!-- Thumbnail -->
+<section id="thumbnails">
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/2.jpg" data-position="left center"><img src="assets/images/thumbs/2.jpg" alt="" /></a>
+		<h2>All Might - My Hero Academia</h2>
+		<p>Ilustração digital baseada em imagem real do Anime com a tentativa de recriar ao máximo os detalhes.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/1.jpg" data-position="left center"><img src="assets/images/thumbs/1.jpg" alt="" /></a>
+		<h2>Android 17 e 18 na Praia - Dragon Ball</h2>
+		<p>Ilustração digital baseada em imagem real do Anime com a tentativa de recriar ao máximo os detalhes.</p>
+	</article>
+
+	<article>
+		<a class="thumbnail" href="assets/images/fulls/3.jpg" data-position="left center"><img src="assets/images/thumbs/3.jpg" alt="" /></a>
+		<h2>Personagem de RPG Anônimo</h2>
+		<p>Ilustração digital de um elfo, personagem de um jogo de RPG.</p>
+	</article>
+</section>
+:ET

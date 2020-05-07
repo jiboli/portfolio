@@ -1,0 +1,35 @@
+I"�<!-- Thumbnail -->
+<section id="thumbnails">
+	<article>
+		&lt;div id= /photos/all-might class="thumbnail" style="display= block; background-size=cover;" href="assets/images/fulls/2.jpg" data-position="center top"&gt;&lt;/div&gt;
+
+		<h2>All Might - My Hero Academia</h2>
+		<p>Ilustração digital baseada em imagem real do Anime com a tentativa de recriar ao máximo os detalhes.</p>
+	</article>
+
+
+	<article>
+		&lt;div id= /photos/driods-17-18 class="thumbnail" style="display= block; background-size=cover;" href="assets/images/fulls/1.jpg" data-position="center top"&gt;&lt;/div&gt;
+
+		<h2>Android 17 e 18 na Praia - Dragon Ball</h2>
+		<p>Ilustração digital baseada em imagem real do Anime com a tentativa de recriar ao máximo os detalhes.</p>
+	</article>
+
+
+	<article>
+		&lt;div id= /photos/rpg-pj class="thumbnail" style="display= block; background-size=cover;" href="assets/images/fulls/3.jpg" data-position="center top"&gt;&lt;/div&gt;
+
+		<h2>Personagem de RPG Anônimo</h2>
+		<p>Ilustração digital de um elfo, personagem de um jogo de RPG.</p>
+	</article>
+
+
+	<article>
+		&lt;div id= /photos/todoroki class="thumbnail" style="display= block; background-size=cover;" href="assets/images/fulls/4.jpg" data-position="center top"&gt;&lt;/div&gt;
+
+		<h2>Todoroki - My Hero Academia</h2>
+		<p>Ilustração digital baseada em imagem real do Anime com a tentativa de recriar ao máximo os detalhes.</p>
+	</article>
+
+</section>
+:ET
